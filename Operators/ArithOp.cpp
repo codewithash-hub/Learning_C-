@@ -15,5 +15,14 @@ int main(){
     int a = 2 + 9 * 5;
     int b = (2 + 9) * 5;
     cout << a <<endl;
-    cout << b;
+    cout << b <<endl;
+
+    // Comparision operation
+
+    int i = 50;
+    int j = 40;
+    int k = i;
+
+    int p = i == j;
+    cout << p;
 }
