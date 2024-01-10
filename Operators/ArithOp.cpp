@@ -23,6 +23,6 @@ int main(){
     int j = 40;
     int k = i;
 
-    int p = i == j;
+    int p = i != j;
     cout << p;
 }
